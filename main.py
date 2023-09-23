@@ -12,7 +12,7 @@ from langchain.chains import ConversationalRetrievalChain
 
 
 # Set your OpenAI API key
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "API-KEY"
 
 # Load your PDF content
 pdf_path = "C:/Users/rakes/Downloads/powerbi_interview.pdf"
